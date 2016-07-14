@@ -1,4 +1,4 @@
-# akshara
+# akshara (अक्शर)
 
 Keyboard layout for Devanagari with Vedic markings on a Mac
 
