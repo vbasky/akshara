@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.0.4.75 on 2016-07-09 at 11:26 (AEST)-->
-<!--Last edited by Ukelele version 3.0.4.75 on 2016-07-14 at 16:47 (AEST)-->
+<!--Last edited by Ukelele version 3.1.1.113 on 2017-04-22 at 09:14 (AEST)-->
 <keyboard group="126" id="-1652" name="Akshar" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -322,9 +322,9 @@
 			<key code="16" output=""/>
 			<key code="17" output="ठ"/>
 			<key code="18" output=""/>
-			<key code="19" output=""/>
-			<key code="20" output=""/>
-			<key code="21" output=""/>
+			<key code="19" output="©"/>
+			<key code="20" output="®"/>
+			<key code="21" output="™"/>
 			<key code="22" output=""/>
 			<key code="23" output=""/>
 			<key code="24" output=""/>
@@ -334,11 +334,11 @@
 			<key code="28" output=""/>
 			<key code="29" output=""/>
 			<key code="30" output=""/>
-			<key code="31" output="ई"/>
-			<key code="32" output=""/>
+			<key code="31" output="औ"/>
+			<key code="32" output="ऊ"/>
 			<key code="33" output=""/>
-			<key code="34" output="ऊ"/>
-			<key code="35" output="औ"/>
+			<key code="34" output="ई"/>
+			<key code="35" output=""/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output=""/>
 			<key code="38" output=""/>
